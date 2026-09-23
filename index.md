@@ -7,7 +7,7 @@
 🩻 Co-developed **HTAN**, a medical image segmentation architecture, with a paper in preparation for submission
 
 📌 Goal: Research-based Master's (MSc) in Computer Science, with a direction in AI, Computer Vision, NLP, and Explainable AI (XAI)
-
+ 📄 [Download my CV (PDF)](CV_Abdellatif_Salah_Eldin.pdf)
 ---
 
 I learn primarily by building. I regularly teach myself new technologies and areas beyond my formal coursework, turning what I learn into research, experiments, and working systems.
